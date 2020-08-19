@@ -2,28 +2,22 @@
 ## Syllabus for CS5XXX - Reinforcement Learning 
 
 ### Time and Location
-MW, 9:30AM - 10:50PM 
-
-GSB 553
+MWF, 9:30AM - 10:50PM 
 
 ### Instructor
 Ajin Joseph (ajin@iittp.ac.in)
 
 
 ### Announcements
-**13/01/2019: Lecture notes uploaded.**
+**02/09/2020: First lecture.**
 
-**17/01/2019: Assignment 1 is available online. See schedule section. **
-
-### Office hours
-TBD 
 
 ### Course Objective
-The course objective is to study the analysis of stochastic approximation algorithms from the viewpoint of dynamical systems.
+The course objective is to introduce reinforcement learning.
 
 ### Prerequisites
 
-We will cover the needed background, from the beginning (probability, stochastic processes). The goal of the courses is to introduce reinforcement learning.
+We will cover the needed background, from the beginning (probability, stochastic processes). 
 
 ### Textbooks
 Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
@@ -33,9 +27,9 @@ Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
 Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
 
 ### Grading
-* Presentations: 20% 
-* Initial draft for project: 30% 
-* Final project write-up: 50%
+* Assignments: 40% 
+* Mid-sem: Take home 30% 
+* Final exam: 30%
 
  
 ### Topics:
