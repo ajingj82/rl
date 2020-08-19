@@ -26,7 +26,7 @@ Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
 Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
 
 ### Grading
-```
+```markdown
 * Assignments: 40% 
 * Mid-sem: Take home 30% 
 * Final exam: 30%
