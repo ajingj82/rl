@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS5XXX - Reinforcement Learning
 
 You can use the [editor on GitHub](https://github.com/ajingj82/rl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
