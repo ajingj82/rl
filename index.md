@@ -46,7 +46,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
  
 ## Lectures:
 
-
+```markdown
 | **Lectures**      | **Topics to cover** |
 | --- | --- |
 | Lecture 1     | Introduction  |
@@ -66,6 +66,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 | Lecture 15    | SARSA, Dyna  |
 | Lecture 16    | Linear function approximation methods |
 | Lecture 17    | Linear function approximation methods |
+```
 
 
 
