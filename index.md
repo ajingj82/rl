@@ -1,9 +1,10 @@
 # CS5224 - Reinforcement Learning 
 
 ## Time
-- M, 11:00AM - 11:50AM
-- W, 10:00AM - 10:50AM
-- F, 9:00AM - 9:50AM
+
+*`M, 11:00AM - 11:50AM
+*W, 10:00AM - 10:50AM
+*F, 9:00AM - 9:50AM`
 
 ## Location
 Zoom link will be uploaded soon
@@ -27,14 +28,13 @@ We will cover the needed background (probability, stochastic processes).
 Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press
 
 ### Additional Resources
-Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
-
-[OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms
+* Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
+* [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms
 
 ## Grading
 ```markdown
 * Assignments: 40% 
-* Mid-sem: Take home 30% 
+* Mid-sem: 30% 
 * Final exam: 30%
 ```
 
