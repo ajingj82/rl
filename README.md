@@ -1,10 +1,10 @@
 
-## Syllabus for CS5224 - Reinforcement Learning 
+## CS5224 - Reinforcement Learning 
 
 ### Time and Location
-M, 11:00AM - 12:00PM
-W, 10:00AM - 11:00AM
-F, 9:00AM - 10:00AM
+* M, 11:00AM - 12:00PM
+* W, 10:00AM - 11:00AM
+* F, 9:00AM - 10:00AM
 
 ### Instructor
 Ajin Joseph (ajin@iittp.ac.in)
