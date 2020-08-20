@@ -43,9 +43,10 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
 https://iittp.ac.in/pdfs/syllabus/CS5224.pdf
  
  
+### Lectures:
 
 
-| Lectures      | Topics to cover |
+| **Lectures**      | **Topics to cover** |
 | ------------- | --------------- |
 | Lecture 1     | Introduction  |
 | Lecture 2     | Basics: Probability, Conditional Expectation   |
