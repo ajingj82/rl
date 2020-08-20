@@ -29,7 +29,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 ### Additional Resources
 Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
 
-[OpenAI Gym](https://gym.openai.com/)
+[OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms
 
 ## Grading
 ```markdown
