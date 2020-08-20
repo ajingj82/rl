@@ -2,9 +2,9 @@
 
 ## Time
 
-*`M, 11:00AM - 11:50AM
-*W, 10:00AM - 10:50AM
-*F, 9:00AM - 9:50AM`
+`Mon: 11:00AM - 11:50AM,
+Wed: 10:00AM - 10:50AM,
+Fri: 9:00AM - 9:50AM`
 
 ## Location
 Zoom link will be uploaded soon
