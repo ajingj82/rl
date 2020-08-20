@@ -2,9 +2,9 @@
 
 ## Time
 
-`Mon: 11:00AM - 11:50AM,
+Mon: 11:00AM - 11:50AM,
 Wed: 10:00AM - 10:50AM,
-Fri: 9:00AM - 9:50AM`
+Fri: 9:00AM - 9:50AM
 
 ## Location
 Zoom link will be uploaded soon
@@ -59,7 +59,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 | Lecture 8     | Markov Decision Processes, Bellman Equation |
 | Lecture 9     | Dynamic programming: Value iteration |
 | Lecture 10    | Policy iteration |
-| Lecture 11    | Reinforcement learning setting, Monte Carlo method for value function estimation  |
+| Lecture 11    | Reinforcement learning, Monte Carlo method  |
 | Lecture 12    | Temporal difference learning |
 | Lecture 13    | Eligibility traces |
 | Lecture 14    | Control methods: Q-learning |
