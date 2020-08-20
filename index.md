@@ -1,36 +1,36 @@
-## CS5224 - Reinforcement Learning 
+# CS5224 - Reinforcement Learning 
 
-### Time
+## Time
 - M, 11:00AM - 11:50AM
 - W, 10:00AM - 10:50AM
 - F, 9:00AM - 9:50AM
 
-### Location
+## Location
 Zoom link will be uploaded soon
 
-### Instructor
+## Instructor
 Ajin Joseph (ajin@iittp.ac.in)
 
 
-### Announcements
+## Announcements
 **02/09/2020: First lecture.**
 
 
-### Course Objective
+## Course Objective
 The course objective is to introduce reinforcement learning algorithms.
 
-### Prerequisites
+## Prerequisites
 
 We will cover the needed background (probability, stochastic processes). 
 
-### Textbooks
+## Textbooks
 Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press
 
-**Additional Resources**
+### Additional Resources
 Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
 [OpenAI Gym](https://gym.openai.com/)
 
-### Grading
+## Grading
 ```markdown
 * Assignments: 40% 
 * Mid-sem: Take home 30% 
@@ -38,12 +38,12 @@ Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena S
 ```
 
  
-### Topics:
+## Topics:
 
 [Link](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
  
  
-### Lectures:
+## Lectures:
 
 
 | **Lectures**      | **Topics to cover** |
