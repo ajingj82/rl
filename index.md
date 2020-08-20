@@ -40,7 +40,7 @@ Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena S
  
 ## Topics:
 
-[Link](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
+[https://iittp.ac.in/pdfs/syllabus/CS5224.pdf](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
  
  
 ## Lectures:
