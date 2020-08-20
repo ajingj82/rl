@@ -1,7 +1,12 @@
-## CS5XXX - Reinforcement Learning
+## CS5224 - Reinforcement Learning 
 
 ### Time
-MWF, 9:30AM - 10:50PM 
+- M, 11:00AM - 11:50AM
+- W, 10:00AM - 10:50AM
+- F, 9:00AM - 9:50AM
+
+### Location
+Zoom link will be uploaded soon
 
 ### Instructor
 Ajin Joseph (ajin@iittp.ac.in)
@@ -16,7 +21,7 @@ The course objective is to introduce reinforcement learning algorithms.
 
 ### Prerequisites
 
-We will cover the needed background, from the beginning (probability, stochastic processes). 
+We will cover the needed background (probability, stochastic processes). 
 
 ### Textbooks
 Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
@@ -26,9 +31,11 @@ Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
 Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
 
 ### Grading
+```markdown
 * Assignments: 40% 
 * Mid-sem: Take home 30% 
 * Final exam: 30%
+```
 
  
 ### Topics:
@@ -59,30 +66,6 @@ https://iittp.ac.in/pdfs/syllabus/CS5224.pdf
 | Lecture 17    | Linear function approximation methods |
 
 
-
-
-
-
-
-
-
-
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 
