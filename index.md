@@ -27,7 +27,7 @@ We will cover the needed background (probability, stochastic processes).
 ## Textbooks
 Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press
 
-** Additional Resources **
+**Additional Resources**
 
 * Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
 * [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms
@@ -47,7 +47,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
  
 ## Lectures:
 
-|```markdown **Lectures** ```   | **Topics to cover** |
+| **Lectures**   | **Topics to cover** |
 | --- | --- |
 | Lecture 1     | Introduction  |
 | Lecture 2     | Basics: Probability, Conditional Expectation   |
