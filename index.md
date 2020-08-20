@@ -1,5 +1,3 @@
-# CS5224 - Reinforcement Learning 
-
 ## Time
 
 `Mon: 11:00AM - 11:50AM,
