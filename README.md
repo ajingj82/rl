@@ -1,8 +1,10 @@
 
-## Syllabus for CS5XXX - Reinforcement Learning 
+## Syllabus for CS5224 - Reinforcement Learning 
 
 ### Time and Location
-MWF, 9:30AM - 10:50PM 
+M, 11:00AM - 12:00PM
+W, 10:00AM - 11:00AM
+F, 9:00AM - 10:00AM
 
 ### Instructor
 Ajin Joseph (ajin@iittp.ac.in)
@@ -13,7 +15,7 @@ Ajin Joseph (ajin@iittp.ac.in)
 
 
 ### Course Objective
-The course objective is to introduce reinforcement learning.
+The course objective is to introduce reinforcement learning algorithms.
 
 ### Prerequisites
 
@@ -34,11 +36,7 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
  
 ### Topics:
 
-* Real Analysis - Real numbers, topology, sequences, compact sets, continuity, differentiability, Riemann integraton.
-* Probability Theory - Borel set, probability measure, expectation, convergence theorems, L-p spaces, Radon-Nikodyn theorem
-* Stochastic process - Conditional expectation, stochastic processes, Kolmogorov extension theorem, martingales, martingale convergence                         theorems    
-* Dynamical systems - ODE local existence and uniqueness theorems, stability, linear dynamical systems.
-* Stochastic approximation algorithms - Chapter 2, 3,   6 and 4 of Borkar's textbook.
+https://iittp.ac.in/pdfs/syllabus/CS5224.pdf
  
  
 
@@ -46,21 +44,21 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
 | Lectures      | Topics to cover |
 | ------------- | --------------- |
 | Lecture 1     | Introduction  |
-| Lecture 2     | Real analysis: properties of real numbers, sequences, series, topology   |
-| Lecture 3     | Real analysis: compact sets, continuous functions |
-| Lecture 4     | Real analysis: differentiation and integration |
-| Lecture 5     | Probability theory: probability and expectation |
-| Lecture 6     | Probability theory: convergence theorems |
-| Lecture 7     | Probability theory: conditional expectation |
-| Lecture 8     | Martingales |
-| Lecture 9     | Martingales |
-| Lecture 10    | Martingales |
-| Lecture 11    | Dynamical systems: existence and uniqueness of solutions |
-| Lecture 12    | Dynamical systems: stability, linear autonomous systems, gradient flow |
-| Lecture 13    | Stochastic approximation algorithms: chapter 2 of Borkar's text |
-| Lecture 14    | Stochastic approximation algorithms: chapter 2 of Borkar's text (cont)|
-| Lecture 15    | Stochastic approximation algorithms: chapter 3 of Borkar's text  |
-| Lecture 16    | Stochastic approximation algorithms: chapter 6 of Borkar's text |
-| Lecture 17    | Stochastic approximation algorithms: chapter 4 of Borkar's text |
+| Lecture 2     | Basics: Probability, Conditional Expectation   |
+| Lecture 3     | Stochastic processes |
+| Lecture 4     | Markov Chain |
+| Lecture 5     | Markov Chain |
+| Lecture 6     | Markov Chain |
+| Lecture 7     | Markov Decision Processes, Value function |
+| Lecture 8     | Markov Decision Processes, Bellman Equation |
+| Lecture 9     | Dynamic programming: Value iteration |
+| Lecture 10    | Policy iteration |
+| Lecture 11    | Reinforcement learning setting, Monte Carlo method for value function estimation  |
+| Lecture 12    | Temporal difference learning |
+| Lecture 13    | Eligibility traces |
+| Lecture 14    | Control methods: Q-learning |
+| Lecture 15    | SARSA, Dyna  |
+| Lecture 16    | Linear function approximation methods |
+| Lecture 17    | Linear function approximation methods |
 
 
