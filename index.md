@@ -28,6 +28,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 
 ### Additional Resources
 Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
+
 [OpenAI Gym](https://gym.openai.com/)
 
 ## Grading
@@ -40,14 +41,14 @@ Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena S
  
 ## Topics:
 
-[https://iittp.ac.in/pdfs/syllabus/CS5224.pdf](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
+[Link to Topics](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
  
  
 ## Lectures:
 
 
 | **Lectures**      | **Topics to cover** |
-| ------------- | --------------- |
+| --- | --- |
 | Lecture 1     | Introduction  |
 | Lecture 2     | Basics: Probability, Conditional Expectation   |
 | Lecture 3     | Stochastic processes |
