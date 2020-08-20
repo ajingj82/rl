@@ -24,11 +24,11 @@ The course objective is to introduce reinforcement learning algorithms.
 We will cover the needed background (probability, stochastic processes). 
 
 ### Textbooks
-Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
+Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press
 
-**Recommended supplements**
-
-Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
+**Additional Resources**
+Bertsekas D P, Reinforcement Learning and Optimal Control, 1st Edition, Athena Scientific
+[OpenAI Gym](https://gym.openai.com/)
 
 ### Grading
 ```markdown
@@ -40,7 +40,7 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
  
 ### Topics:
 
-https://iittp.ac.in/pdfs/syllabus/CS5224.pdf
+[Link](https://iittp.ac.in/pdfs/syllabus/CS5224.pdf)
  
  
 ### Lectures:
