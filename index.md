@@ -48,7 +48,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 ## Lectures:
 
 | **Lectures**   | **Topics** | **Video** |
-| --- | --- |
+| --- | --- | --- |
 | Lecture 1     | Introduction  | |
 | Lecture 2     | Motivation   | |
 | Lecture 3     | Formalisation | [Link to Topics](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) |
