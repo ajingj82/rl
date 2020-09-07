@@ -47,25 +47,25 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
  
 ## Lectures:
 
-| **Lectures**   | **Topics to cover** |
+| **Lectures**   | **Topics** | **Video** |
 | --- | --- |
-| Lecture 1     | Introduction  |
-| Lecture 2     | Basics: Probability, Conditional Expectation   |
-| Lecture 3     | Stochastic processes |
-| Lecture 4     | Markov Chain |
-| Lecture 5     | Markov Chain |
-| Lecture 6     | Markov Chain |
-| Lecture 7     | Markov Decision Processes, Value function |
-| Lecture 8     | Markov Decision Processes, Bellman Equation |
-| Lecture 9     | Dynamic programming: Value iteration |
-| Lecture 10    | Policy iteration |
-| Lecture 11    | Reinforcement learning, Monte Carlo method  |
-| Lecture 12    | Temporal difference learning |
-| Lecture 13    | Eligibility traces |
-| Lecture 14    | Control methods: Q-learning |
-| Lecture 15    | SARSA, Dyna  |
-| Lecture 16    | Linear function approximation methods |
-| Lecture 17    | Linear function approximation methods |
+| Lecture 1     | Introduction  | |
+| Lecture 2     | Motivation   | |
+| Lecture 3     | Formalisation | [Link to Topics](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) |
+| Lecture 4     | Markov Chain | |
+| Lecture 5     | Markov Chain | | 
+| Lecture 6     | Markov Chain | |
+| Lecture 7     | Markov Decision Processes, Value function | |
+| Lecture 8     | Markov Decision Processes, Bellman Equation | |
+| Lecture 9     | Dynamic programming: Value iteration | |
+| Lecture 10    | Policy iteration | |
+| Lecture 11    | Reinforcement learning, Monte Carlo method  | |
+| Lecture 12    | Temporal difference learning | |
+| Lecture 13    | Eligibility traces | |
+| Lecture 14    | Control methods: Q-learning | |
+| Lecture 15    | SARSA, Dyna  | |
+| Lecture 16    | Linear function approximation methods | |
+| Lecture 17    | Linear function approximation methods | |
 
 
 
