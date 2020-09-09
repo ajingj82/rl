@@ -51,8 +51,8 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 | --- | --- | --- |
 | Lecture 1     | Introduction  | |
 | Lecture 2     | Motivation   | |
-| Lecture 3     | Formalisation | [Lecture 3](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) |
-| Lecture 4     | Markov Chain | |
+| Lecture 3     | MDP - Formalisation | [Lecture 3](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) |
+| Lecture 4     | MDP  | [Lecture 4](https://drive.google.com/file/d/1ngMTB7ZKaAYIBuefJKGxsZp4OougUBQ3/view) |
 | Lecture 5     | Markov Chain | | 
 | Lecture 6     | Markov Chain | |
 | Lecture 7     | Markov Decision Processes, Value function | |
