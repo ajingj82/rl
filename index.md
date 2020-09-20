@@ -47,25 +47,27 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
  
 ## Lectures:
 
-| **Lectures**   | **Topics** | **Video** |
-| --- | --- | --- |
-| Lecture 1     | Introduction  | |
-| Lecture 2     | Motivation   | |
-| Lecture 3     | MDP - Formalisation | [Lecture 3](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) |
-| Lecture 4     | MDP  | [Lecture 4](https://drive.google.com/file/d/1ngMTB7ZKaAYIBuefJKGxsZp4OougUBQ3/view) |
-| Lecture 5     | Markov Chain | | 
-| Lecture 6     | Markov Chain | |
-| Lecture 7     | Markov Decision Processes, Value function | |
-| Lecture 8     | Markov Decision Processes, Bellman Equation | |
-| Lecture 9     | Dynamic programming: Value iteration | |
-| Lecture 10    | Policy iteration | |
-| Lecture 11    | Reinforcement learning, Monte Carlo method  | |
-| Lecture 12    | Temporal difference learning | |
-| Lecture 13    | Eligibility traces | |
-| Lecture 14    | Control methods: Q-learning | |
-| Lecture 15    | SARSA, Dyna  | |
-| Lecture 16    | Linear function approximation methods | |
-| Lecture 17    | Linear function approximation methods | |
+| **Lectures**   | **Topics** | **Video** | **Board** |
+| --- | --- | --- | --- |
+| Lecture 02-09-2020     | Introduction  | | |
+| Lecture 04-09-2020     | Motivation   | | |
+| Lecture 07-09-2020     | MDP - Formalisation | [Lecture 07-09-2020](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) | |
+| Lecture 09-09-2020     | MDP  | [Lecture 09-09-2020](https://drive.google.com/file/d/1ngMTB7ZKaAYIBuefJKGxsZp4OougUBQ3/view) | |
+| Lecture 11-09-2020     | MDP | [Lecture 11-09-2020](https://drive.google.com/file/d/1I63fvQ-AE5ooZVFNMHogqMKTbAalCeKB/view) |  |
+| Lecture 14-09-2020     | MDP | [Lecture 14-09-2020](https://drive.google.com/file/d/16lzrp6qJMR0J5lzPNizHT1F5WrjZOm_X/view) | |
+| Lecture 16-09-2020     | MDP | [Lecture 16-09-2020](https://drive.google.com/file/d/1jnkxH-Q1qLMiH0zSrotRjNZqE2OB1_Jp/view) |  |
+| Lecture 18-09-2020     | MDP | [Lecture 18-09-2020](https://drive.google.com/file/d/1FDWhZexXO1O9dXAsWLotWlK_EGp-MJvv/view) | [Board Link](https://classroom.google.com/u/1/c/MTMxOTMyNjgwOTE0)|
+| Lecture      | Markov Decision Processes, Value function | | |
+| Lecture      | Markov Decision Processes, Bellman Equation | | |
+| Lecture      | Dynamic programming: Value iteration | | |
+| Lecture     | Policy iteration | | |
+| Lecture     | Reinforcement learning, Monte Carlo method  | | |
+| Lecture     | Temporal difference learning | | |
+| Lecture     | Eligibility traces | | |
+| Lecture     | Control methods: Q-learning | | |
+| Lecture     | SARSA, Dyna  | | |
+| Lecture     | Linear function approximation methods | | |
+| Lecture     | Linear function approximation methods | | |
 
 
 
