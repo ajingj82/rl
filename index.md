@@ -47,12 +47,12 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
  
 ## Lectures:
 
-| **Lectures**   | **Topics** | **Video** | **Board** |
-| -------------- | --- | --- | --- |
-|  02-09-2020     | Introduction  | | |
-|  04-09-2020     | Motivation   | | |
+| **Lectures**  | **Topics** |  **Video**  |   **Board**  |
+| --- | --- | -------- | --- |
+|  02-09-2020     | Introduction |   |   |
+|  04-09-2020     | Motivation |   |    |
 |  07-09-2020     | MDP - Formalisation | [Lecture 07-09](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) | |
-|  09-09-2020     | MDP  | [Lecture 09-09](https://drive.google.com/file/d/1ngMTB7ZKaAYIBuefJKGxsZp4OougUBQ3/view) | |
+|  09-09-2020     | MDP | [Lecture 09-09](https://drive.google.com/file/d/1ngMTB7ZKaAYIBuefJKGxsZp4OougUBQ3/view) | |
 |  11-09-2020     | MDP | [Lecture 11-09](https://drive.google.com/file/d/1I63fvQ-AE5ooZVFNMHogqMKTbAalCeKB/view) |  |
 |  14-09-2020     | MDP | [Lecture 14-09](https://drive.google.com/file/d/16lzrp6qJMR0J5lzPNizHT1F5WrjZOm_X/view) | |
 |  16-09-2020     | MDP | [Lecture 16-09](https://drive.google.com/file/d/1jnkxH-Q1qLMiH0zSrotRjNZqE2OB1_Jp/view) | [Board Link](https://classroom.google.com/u/1/c/MTMxOTMyNjgwOTE0)|
