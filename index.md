@@ -48,7 +48,7 @@ Sutton R S and Barto A G, Reinforcement Learning: An Introduction, 2nd Edition, 
 ## Lectures:
 
 | **Lectures**   | **Topics** | **Video** | **Board** |
-| ------ | --- | --- | --- |
+| -------------- | --- | --- | --- |
 | Lecture 02-09-2020     | Introduction  | | |
 | Lecture 04-09-2020     | Motivation   | | |
 | Lecture 07-09-2020     | MDP - Formalisation | [Lecture 07-09-2020](https://drive.google.com/file/d/1ahkrWr0I9f_YIXVkoXkI4NrsOs_UhQyD/view) | |
